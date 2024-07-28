@@ -24,5 +24,17 @@ Git commands
 5.pull-> Changes to be made in Remote repo oppistite for push 
 6. ls -la -> list all folder including unseen folder 
 
+Git Branch 
+git branch 
+git checkout -> Change between branch 
+git checkout -b feature-11-section -> to create new branch
+
+Please note down this comment 
+
+Git Branch 
+git branch 
+git checkout -> Change between branch 
+git checkout -b feature-11-section -> to create new branch
+
 
 
