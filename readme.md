@@ -22,6 +22,7 @@ Git commands
 3.commit->Save your file
 4.push-> Upload Git commit to github 
 5.pull-> Changes to be made in Remote repo oppistite for push 
+6. ls -la -> list all folder including unseen folder 
 
 
 
